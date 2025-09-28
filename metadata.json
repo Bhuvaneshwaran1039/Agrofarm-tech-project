@@ -1,0 +1,7 @@
+{
+  "name": "AgroFarm",
+  "description": "An AI-powered agriculture web platform for farmers, researchers, and crop scientists to analyze soil data, monitor plant health, and receive intelligent advice for optimizing crop yield and profitability.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
