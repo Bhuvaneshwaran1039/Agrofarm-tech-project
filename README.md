@@ -1,4 +1,7 @@
-🔗 **Project Live Demo:** [https://agrofarm-intelligence.surge.sh](https://agrofarm-intelligence.surge.sh)
+🔗 **Project Live Demos:**
+- [Agroform Website](https://agroform-live-link.surge.sh)
+- [SOC Traffic Simulator](https://soc-traffic-simulator-live.surge.sh)
+- [Third Project Name](https://third-project-live-link.surge.sh)
 
 This contains everything you need to run your app locally.
 
@@ -13,8 +16,10 @@ This contains everything you need to run your app locally.
 3. Run the app:
    `npm run dev`
 
-## 🚀 Live Deployment
+## 🚀 Live Deployments
 
-**Live Website:** [https://agrofarm-intelligence.surge.sh](https://agrofarm-intelligence.surge.sh)
+- [Agroform Website](https://agroform-live-link.surge.sh)
+- [SOC Traffic Simulator](https://soc-traffic-simulator-live.surge.sh)
+- [Third Project Name](https://third-project-live-link.surge.sh)
 
-Visit the live deployment to see the AgroFarm Intelligence application in action!
+Visit the live deployments to see our applications in action!
