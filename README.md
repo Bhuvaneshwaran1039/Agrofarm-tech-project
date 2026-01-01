@@ -1,7 +1,4 @@
-🔗 **Project Live Demos:**
-- [Agroform Website](https://agroform-live-link.surge.sh)
-- [SOC Traffic Simulator](https://soc-traffic-simulator-live.surge.sh)
-- [Third Project Name](https://third-project-live-link.surge.sh)
+🔗 **Live Demo:** [https://agroform-live-link.surge.sh](https://agroform-live-link.surge.sh)
 
 This contains everything you need to run your app locally.
 
@@ -16,10 +13,8 @@ This contains everything you need to run your app locally.
 3. Run the app:
    `npm run dev`
 
-## 🚀 Live Deployments
+## 🚀 Live Demo
 
-- [Agroform Website](https://agroform-live-link.surge.sh)
-- [SOC Traffic Simulator](https://soc-traffic-simulator-live.surge.sh)
-- [Third Project Name](https://third-project-live-link.surge.sh)
+**AgroForm Tech:** [https://agroform-live-link.surge.sh](https://agroform-live-link.surge.sh)
 
-Visit the live deployments to see our applications in action!
+Visit the live demo to see the AgroForm Tech application in action!
