@@ -1,4 +1,4 @@
-🔗 **Live Demo:** [https://agroform-live-link.surge.sh](https://agroform-live-link.surge.sh)
+🔗 **Live Demo:** [https://agrofarm-intelligence.surge.sh](https://agrofarm-intelligence.surge.sh)
 
 This contains everything you need to run your app locally.
 
@@ -15,6 +15,6 @@ This contains everything you need to run your app locally.
 
 ## 🚀 Live Demo
 
-**AgroForm Tech:** [https://agroform-live-link.surge.sh](https://agroform-live-link.surge.sh)
+**AgroForm Tech:** [https://agrofarm-intelligence.surge.sh](https://agrofarm-intelligence.surge.sh)
 
 Visit the live demo to see the AgroForm Tech application in action!
